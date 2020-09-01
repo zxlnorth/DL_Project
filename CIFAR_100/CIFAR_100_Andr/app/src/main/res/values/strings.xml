@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CIFAR_100_Andr</string>
+    <string name="content_descr">Cifar 100 image</string>
+    <string name="load_image_button_text">Load Image</string>
+    <string name="predict_image_button_text">Predict</string>
+    <string name="results_text">Load image</string>
+</resources>
