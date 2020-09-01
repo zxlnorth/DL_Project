@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CIFAR_10_Andr</string>
+    <string name="image_content_descr">Image from CIFAR 10</string>
+    <string name="next_button_text">Next Image</string>
+    <string name="guess_button_text">Guess Iamge</string>
+    <string name="results_label_text">Prediction Results</string>
+
+</resources>
