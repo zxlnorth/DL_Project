@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Advanced_MNIST_Andr</string>
+    <string name="image_button_text">Load Image</string>
+    <string name="predict_button_text">Predict Digit</string>
+    <string name="results_text">Results</string>
+    <string name="image_content_description">Digit Image</string>
+</resources>
