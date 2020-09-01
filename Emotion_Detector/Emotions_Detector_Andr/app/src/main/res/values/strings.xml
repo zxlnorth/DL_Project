@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Emotions_Detector_Andr</string>
+    <string name="content_decription">Image of a face</string>
+    <string name="next_button_text">Next Image</string>
+    <string name="guess_button_text">Guess Image</string>
+    <string name="results_text">Results here</string>
+</resources>
