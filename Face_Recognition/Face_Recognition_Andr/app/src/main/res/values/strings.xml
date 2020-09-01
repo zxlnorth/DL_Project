@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Face_Recognition_Andr</string>
+    <string name="image_view_content_descr">Image of a face or non face</string>
+    <string name="next_image_button_text">Next Image</string>
+    <string name="predict_image_button_text">Predict Image</string>
+    <string name="results_text">Display results</string>
+</resources>
